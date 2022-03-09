@@ -1,0 +1,34 @@
+<Cronos>
+   
+    <Zeus>
+        <Con_Hera>Ares,Hebe,Eris</Con_Hera>
+        <Con_Metis>Atena</Con_Metis>
+        <Con_Temis>Dice,Irene,Eunomia,Las_Moiras,Cloto,Laquesis,Atropos</Con_Temis>
+        <Con_Eurinome>Aglaya,Eufrosine,Talia,Asopo</Con_Eurinome>
+        <Con_Demeter>Persefone</Con_Demeter>
+        <Con_Mnemosine>Las_Musas,Cailiope,Clio,Erato,Euterpe,Melepomene,poliminia,Talia,Terpsicore,Urania</Con_Mnemosine>
+        <Con_Leto>Apolo,Artemisa</Con_Leto>
+        <Con_Dione>Afrodita,Dionisio</Con_Dione>
+        <Con_Maya>Hermes</Con_Maya>
+        <Con_Electra>Dardano,Yasion,Hamonia,Emation</Con_Electra>
+        <Con_Asteria>Hecate,Heracles</Con_Asteria>
+    </Zeus>
+    <Poseidon>
+    <Con_Anfitere>Triton,Benetesicime,Cimopolea</Con_Anfitere>
+    <Con_Libia>Belo,Agenor,Lamia</Con_Libia>
+    <Con_Leucotea>Roda,Palemon,</Con_Leucotea>
+    <Con_Gea>Anteo,Caribdis</Con_Gea>
+    <Con_Ifimedea>Oto,Efialtes</Con_Ifimedea>
+    <Con_Arne>Eolo,Beoto</Con_Arne>
+    <Con_Medusa>Pegaso,Crisaor</Con_Medusa>
+    <Con_Etra>Teseo</Con_Etra>
+    <Con_Euriale>Orion</Con_Euriale>
+    <Con_Teofane>Crisomalo</Con_Teofane>
+    <Con_Alope>Hipotoonte</Con_Alope>
+    <Con_Demeter>Arion,Despena</Con_Demeter>
+    </Poseidon>
+
+    <Hades>
+    <Con_Persefone>Melione,Pluto,Zagreo</Con_Persefone>
+    </Hades>
+</Cronos>
