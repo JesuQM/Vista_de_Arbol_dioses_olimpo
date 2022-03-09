@@ -46,3 +46,5 @@ gui.geometry("800x800")
 gui.title ("ALungos hijos de los tres principales dioses  griegos")
 Arbol(gui)
 gui.mainloop()
+#Jesus Quintero 
+#Braulio Tovar
