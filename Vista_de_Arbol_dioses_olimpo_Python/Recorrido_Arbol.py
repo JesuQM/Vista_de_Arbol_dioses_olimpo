@@ -16,7 +16,6 @@ class Arbol:
             background = "#F0F8FF",foreground ="black",rowheight =45, fielbackground = "green"
             )#modifica el estilo del arbol 
             Style.map("Treeview",background=[("selected","#A1E825")])
-            #Style.theme_use("default")#modifica el estilo de la interfaz del arbol
             self.tree = Treeview(raiz)#funcion para ver el arbol en la interfaz
             self.tree.pack(expand=True, fill='both')#modifica la pestaña de la interfaz
             self.recorrer(NodoRaiz)#recorre el arbol
@@ -25,8 +24,7 @@ class Arbol:
     def recorrer(self, d, nivel=0, padre=""):
 
         for hijo in d:
-            print(hijo.tag, hijo.attrib)#imprimir los hijos y sus atributos 
-
+            
             Nombre_Nodo = "<" + hijo.tag + ">"
 
             
